@@ -1,0 +1,16 @@
+{
+  "name": "backend20",
+  "version": "1.0.0",
+  "description": "contains json code for my server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lehane",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
